@@ -2,6 +2,11 @@
 
 Bem-vindo ao **Disney Characters**! Este é um aplicativo web simples que exibe uma lista de personagens do universo Disney, consumindo dados de uma API.
 
+## Acesse o Projeto Online
+
+Acesse a versão online do projeto:  
+[https://discharactersapi.netlify.app/](https://discharactersapi.netlify.app/)
+
 ## Captura de Tela
 
 Insira abaixo uma imagem do projeto em funcionamento:
@@ -41,4 +46,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 - **Campo de Busca:** Permitir que usuários encontrem personagens específicos.
 - **Organização de Conteúdo:** Preencher as abas "Live Actions", "TV Shows" e "Upcoming Movies" com conteúdos correspondentes.
-- **Melhorias na UI/UX:** Tornar a interface mais responsiva
+- **Melhorias na UI/UX:** Tornar a interface mais responsiva.
