@@ -21,12 +21,12 @@ import {
 const items = [
   {
     title: "Home",
-    url: "#",
+    url: "/",
     icon: Home,
   },
   {
     title: "Search",
-    url: "#",
+    url: "/search",
     icon: Search,
   },
   {
